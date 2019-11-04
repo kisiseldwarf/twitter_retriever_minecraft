@@ -4,7 +4,7 @@ Twitter Retriever is a program for **ComputerCraft**. It searches tweets based o
 
 ## Installation
 
-To install Twitter Retriever on a Computer, you can either *copy / paste it to a file* or use the *pastebin download utility* provided by ComputerCraftOS.
+To install Twitter Retriever on a Computer, you can *copy / paste it to a file*, preferably a file named **twitter_retriver.lua**.
 
 ## Usage
 
