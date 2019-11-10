@@ -1,6 +1,6 @@
 # Twitter Retriever
 
-Twitter Retriever is a program for **ComputerCraft**. It searches tweets based on hashtag and print them onto a screen.
+Twitter Retriever is a program for **ComputerCraft**. It searches tweets based on hashtag and print them on a screen.
 
 ## Installation
 
